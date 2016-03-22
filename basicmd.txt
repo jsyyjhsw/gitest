@@ -1,0 +1,3 @@
+git command --- add commit rm
+
+Working tree files, whether modified or not, will be left alone.
